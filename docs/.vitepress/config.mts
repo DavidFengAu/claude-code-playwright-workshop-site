@@ -98,7 +98,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/BGLCorp/claude-code-playwright-workshop' }
+      { icon: 'github', link: 'https://github.com/DavidFengAu/claude-code-playwright-workshop-site' }
     ]
   }
 })

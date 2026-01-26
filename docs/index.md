@@ -12,7 +12,7 @@ hero:
       link: /1-create-playwright-project
     - theme: alt
       text: View on GitHub
-      link: https://github.com/BGLCorp/claude-code-playwright-workshop
+      link: https://github.com/DavidFengAu/claude-code-playwright-workshop-site
 
 features:
   - title: AI-Assisted Testing
@@ -113,6 +113,6 @@ Each workshop follows a consistent structure:
 ::: info Need Help?
 - Check the [Help Links](/workshop-users) in the sidebar for additional resources
 - Review [Claude Code Commands](/claude-code-commands) for quick reference
-- Visit the [GitHub Repository](https://github.com/BGLCorp/claude-code-playwright-workshop) for code examples
+- Visit the [GitHub Repository](https://github.com/DavidFengAu/claude-code-playwright-workshop-site) for code examples
 :::
 
