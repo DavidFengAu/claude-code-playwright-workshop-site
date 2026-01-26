@@ -107,7 +107,7 @@ Each workshop follows a consistent structure:
 ### Ready to Get Started?
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="/1-create-playwright-project" style="display: inline-block; padding: 12px 24px; background-color: #646cff; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">Start Workshop 1 →</a>
+  <a href="./1-create-playwright-project" style="display: inline-block; padding: 12px 24px; background-color: #646cff; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">Start Workshop 1 →</a>
 </div>
 
 ::: info Need Help?
