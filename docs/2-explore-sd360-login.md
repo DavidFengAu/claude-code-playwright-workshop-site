@@ -50,4 +50,3 @@ Once you add the Playwright MCP tool, **Claude becomes your automated QA tester 
 > Claude: "I'll navigate to your login page, explore the form fields, take screenshots, and generate a working test based on what I see. Give me the URL!"
 
 **The difference?** Claude goes from being a coding assistant to being an **active testing partner** that can see, interact, and verify real application behavior.
-    

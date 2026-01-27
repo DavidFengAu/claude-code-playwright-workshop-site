@@ -1,14 +1,14 @@
-# Thank You  🙏
+# Thank You 🙏
 
 ## Congratulations on Completing the Workshop!
 
 You've learned how to leverage **AI-powered test automation** using Claude Code and Playwright. You now have the skills to:
 
-✅ Create and run automated browser tests  
-✅ Use MCP tools to interact with web applications  
-✅ Build reusable test fixtures for efficient testing  
-✅ Apply the agent pattern for complex test scenarios  
-✅ Debug failed tests with Playwright Trace Viewer  
+✅ Create and run automated browser tests
+✅ Use MCP tools to interact with web applications
+✅ Build reusable test fixtures for efficient testing
+✅ Apply the agent pattern for complex test scenarios
+✅ Debug failed tests with Playwright Trace Viewer
 
 ---
 

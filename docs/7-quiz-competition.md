@@ -14,8 +14,8 @@
 
 ### Scan to Join
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="/QR Code for Workshop Quiz_ Claude Code & Playwright.png" alt="Quiz QR Code" style="max-width: 300px; width: 100%; height: auto; border: 2px solid #e0e0e0; border-radius: 8px; padding: 10px; background: white;" />
+<div style="margin: 30px 0;">
+  <img src="/qrcode_quiz.png" alt="Quiz QR Code" style="max-width: 300px; width: 100%; height: auto; border: 2px solid #e0e0e0; border-radius: 8px; padding: 10px; background: white;" />
   <p style="margin-top: 15px; font-size: 14px; color: #666;">Scan with your phone camera to join the quiz</p>
 </div>
 

@@ -12,7 +12,6 @@
 
 ---
 
-
 ## Next Steps
 
 In the next exercise, you'll:

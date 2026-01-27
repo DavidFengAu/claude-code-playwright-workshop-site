@@ -87,7 +87,7 @@ Before starting the workshop, ensure you have:
 
 1. **Claude Code** - Your AI coding assistant ([Get Claude Code](https://www.claude.com/product/claude-code))
 2. **Node.js** - Version 18 or higher ([Download Node.js](https://nodejs.org/))
-3. **A Code Editor** - VS Code, WebStorm, or your preferred IDE
+3. **A Code Editor** - VS Code, IntelliJ, WebStorm, or your preferred IDE
 4. **Internet Connection** - For installing packages and accessing the demo application
 
 ::: warning No Coding Experience Required

@@ -90,5 +90,6 @@ In the next exercise, you'll practice using all three agents to:
 2. **Generate** working test code from that plan
 3. **Heal** any issues to create stable, reliable tests
 
-::: warning **Remember**
+::: warning Remember
 The agent pattern is about **focus and quality**. Each agent does one job extremely well, resulting in better tests than trying to do everything at once!
+:::

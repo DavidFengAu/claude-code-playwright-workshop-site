@@ -98,5 +98,6 @@ In this workshop, you'll learn to:
 3. **Apply fixtures to multiple tests** to eliminate repetition
 4. **Debug and refine fixtures** when requirements change
 
-::: warning **Remember**
+::: warning Remember
 Fixtures are like templates - create them once, use them everywhere. They're one of the most powerful features in Playwright for writing maintainable, scalable tests!
+:::

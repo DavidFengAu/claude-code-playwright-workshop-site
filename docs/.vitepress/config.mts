@@ -68,7 +68,7 @@ export default defineConfig({
             text: '5: Playwright Trace Viewer',
             link: '/5-analyze-source-code',
             items: [
-              { text: 'Source Code Analyzing', link: '/5.1-exercise-analyze-source-code' }
+              { text: 'Testing via Code Analysis', link: '/5.1-exercise-analyze-source-code' }
             ]
           },
           {
