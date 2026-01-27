@@ -45,18 +45,18 @@ export default defineConfig({
           },
           {
              text: '2: What are MCP Tools?',
-           link: '/2-explore-sd360-login',
+             link: '/2-explore-sd360-login',
              items: [
                { text: 'Explore the Login UI', link: '/2.1-exercise-explore-sd360-login' }
              ]
-           },
-           {
-             text: '3: What is a Fixture?',
-             link: '/3-create-login-fixture',
-           items: [
-               { text: 'Generate a Login Fixture', link: '/3.1-exercise-generate-login-fixture' }
-             ]
-           }
+          },
+          {
+            text: '3: What is a Fixture?',
+            link: '/3-create-login-fixture',
+            items: [
+              { text: 'Generate a Login Fixture', link: '/3.1-exercise-generate-login-fixture' }
+            ]
+          }
           // {
           //   text: '4: The Agent Pattern',
           //   link: '/4-planner-generator-healer',
